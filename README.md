@@ -1,2 +1,0 @@
-# GIT
-Hola Chicos 🙂
