@@ -1,2 +1,2 @@
 # GIT
-Hola Chicos, Kevin Molina 🙂
+Hola Chicos, Kevin Molina Lazarte 🙂
