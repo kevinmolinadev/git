@@ -1,4 +1,4 @@
-# GIT
+# GIT Y GITHUB
 Hola Chicos 🙂👍
 
 La primera version del trabajo, supongo que luego dejare todo esto aqui al finalizar el aprendizaje sobre Git y Github 
