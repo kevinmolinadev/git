@@ -1,5 +1,5 @@
 # GIT
-Hola Chicos 🙂👍 me gusta comer carne con coca-cola 
+Hola Chicos 🙂👍
 
 La primera version del trabajo, supongo que luego dejare todo esto aqui al finalizar el aprendizaje sobre Git y Github 
 
