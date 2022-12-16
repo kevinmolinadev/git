@@ -18,8 +18,8 @@ div {
     background-color: antiquewhite;
     width: 450px;
     height: 470px;
-    border-right: dotted 1rem red;
-    border-left: dotted 1rem red;
+    border-right: dotted 1rem black;
+    border-left: dotted 1rem  black;
     border-radius: 0 15% 0 15%;
     margin: 22rem 0 0 88rem
 }
