@@ -1,3 +1,30 @@
-body{
-    background-color: aqua;
+body {
+    background-image: url(https://i.pinimg.com/originals/40/bf/50/40bf5022f099e7030c11e17e50f4b3da.png);
+    background-size:cover;
+    text-align: center;
+    font-family: monospace;
+    font-style: italic;
+    color: azure;
+}
+h1{
+    font-size: 2rem;
+}
+p{
+    font-size: 1.8rem;
+}
+div {
+    display: grid;
+    place-items: center;
+    background-color: antiquewhite;
+    width: 450px;
+    height: 470px;
+    border-right: dotted 1rem red;
+    border-left: dotted 1rem red;
+    border-radius: 0 15% 0 15%;
+    margin: 22rem 0 0 88rem
+}
+div > img{
+    border-radius: 20%;
+    width: 400px;
+    height: 400px;
 }
