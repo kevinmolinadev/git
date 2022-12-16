@@ -1,0 +1,238 @@
+commit 7aa55451ec81d71e800b3e24e5dc718969c0e000
+Merge: 51be26e 6148223
+Author: Kevin Molina <120534154+molinalk@users.noreply.github.com>
+Date:   Fri Dec 16 14:32:16 2022 -0400
+
+    Merge pull request #1 from kevinmolinaa/kevin
+    
+    Agregando mi parte
+
+commit 61482239678385f3a3331f5c87c000266245d6ae
+Author: Kevin <kevinmolinalazarte.universidad@gmail.com>
+Date:   Fri Dec 16 19:22:53 2022 +0100
+
+    Agregando mi parte
+
+commit 51be26ed2ef528a8a0061a5f7a0fee20d890d3da
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Fri Dec 16 11:38:01 2022 -0400
+
+    nuevos cambios
+
+commit c10e9d40a0c6ca23097470646fca5b22319bbb1a
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Fri Dec 16 10:29:52 2022 -0400
+
+    v1.0.1
+
+commit d182d51bf06904d71aecc10aafb82d83d4e4fa11
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Fri Dec 16 10:00:32 2022 -0400
+
+    v1.0.0
+
+commit 1296cb11373b9bef09043d922e96b335cde3c81e
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 17:59:00 2022 -0400
+
+    Agregando imagenes
+
+commit cf150b0bd9131ae02bb23e7f8548723e5a0bf10a
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 17:30:51 2022 -0400
+
+    modificando el index.html :D
+
+commit d7a03aa69fc8f2f40cf8fc1c6270420a31ef7319
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 17:13:35 2022 -0400
+
+    Agregando la carpeta image y cambios en el index.html
+
+commit 010b9f92597ad282f99e1b584bf625b153b3ea5d
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 15:08:54 2022 -0400
+
+    Agregando contenido al readme
+
+commit 14223bf5fc68a1ba6116fe620e959bda0c6f462f
+Merge: c64b00e ad7c0ad
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 14:43:13 2022 -0400
+
+    Ahh
+
+commit c64b00ed0f111a15e18dea816067500cf2334175
+Merge: 89385a4 d37d283
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 14:37:35 2022 -0400
+
+    agregando contenido al readme
+
+commit ad7c0ad8fe9ef4942ceca28322094f98d6183eaa
+Merge: 89385a4 d37d283
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 14:37:35 2022 -0400
+
+    agregando conteinido al readme
+
+commit 89385a44ba213a38a0c90ba22b2ba5e9a534fac7
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 14:33:53 2022 -0400
+
+    Agregando contenido al readme
+
+commit d37d283d8503b426083c7c6123ecb801cfe75236
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 14:33:53 2022 -0400
+
+    Agregando contenido al readme
+
+commit fb928f1ec8fcdf4e2ce0e1736a6f6a79801737e3
+Merge: 6a2a8ed 8cfbb86
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 14:30:47 2022 -0400
+
+    Merge branch 'main' of https://github.com/molinalk/Git
+
+commit 6a2a8edc542026a694f76bfb12c7feeaede87d45
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:59:56 2022 -0400
+
+    Agregando una lista con 4 holas
+
+commit 8cfbb86b11d2d22ae4fa2e97105c8da7a252930c
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:59:56 2022 -0400
+
+    Agregando una lista con 4 holas
+
+commit eabd8a8e4899a596d2ecfddcdd156911dd17e326
+Merge: fb60425 b66d58e
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:47:43 2022 -0400
+
+    Resolviendo conflicto merge en main/html en index.html
+
+commit b66d58ecaeda9979d754cee05273c7fd93ee9dc3
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:41:11 2022 -0400
+
+    Agregando script
+
+commit fb60425a49278cc74a6c08076c8f2186268c78cc
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:39:35 2022 -0400
+
+    Agregando una lista html desde main
+
+commit d3c70d99eba480574aa81f62d7c63789cf733b10
+Merge: b754375 d3965a1
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:36:26 2022 -0400
+
+    Merge branch 'html'
+
+commit d3965a1b277b671f14ac5bbb6151c3e8a63b494b
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:14:25 2022 -0400
+
+    Agregando css desde html
+
+commit b754375bd52a408c8a3b6cac804548cf3390898f
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:13:07 2022 -0400
+
+    p desde main
+
+commit 8e2c6682a8b7744e309353484b905481dc677772
+Merge: 765c481 831cf87
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 13:07:37 2022 -0400
+
+    Merge branch 'css'
+
+commit 765c481d9badac728a57b4113f4d04f35f7719ad
+Merge: e3f1b6d d188fe6
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 12:30:47 2022 -0400
+
+    Agregando el index.html a main
+
+commit e3f1b6d738d4a39bf43841cb2da98e92b4dbaa33
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 12:16:54 2022 -0400
+
+    creando el index.js
+
+commit 831cf87253fc6ab298608a5fb82ab11e712496be
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 11:55:53 2022 -0400
+
+    Ordenando la rama css
+
+commit eb832abd900d71c1e749e785b243b57d36b44860
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 11:51:50 2022 -0400
+
+    Ordenando la rama main
+
+commit d188fe677d80ae774a146f534d32a1215bd08d88
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 11:16:24 2022 -0400
+
+    Orndenado la rama html
+
+commit 470f0f2f4a4eefb0bc9e4b2e4bd4d52fcd607c5d
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 11:07:22 2022 -0400
+
+    Creando el index.html
+
+commit c96d285fdd5f74f1f9a6793367faf1d19fd98041
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Thu Dec 15 10:39:43 2022 -0400
+
+    Ignorando archivos .exe
+
+commit 3c9d1e2c18ef00f018adaf7cef202626ad3810b5
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Wed Dec 14 22:11:20 2022 -0400
+
+    Modificando el readme por 3 vez
+
+commit 7c1c9e556c4027d00fe1f0c88bd4de9ba1c28fd6
+Author: Kevin Molina <120534154+molinalk@users.noreply.github.com>
+Date:   Wed Dec 14 21:30:43 2022 -0400
+
+    Conseguimos licencia :D
+
+commit 457cdf79963a9eeafe86e16d129db4a286867219
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Wed Dec 14 21:14:44 2022 -0400
+
+    Modicando el readme otra vez
+
+commit 82bbde2cf628b432994aae75ab14ef2f43a0f4ff
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Wed Dec 14 21:09:09 2022 -0400
+
+    Modicando el readme
+
+commit 43309f458002c988fbabb23af055fbe8f6f8ef30
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Wed Dec 14 20:25:38 2022 -0400
+
+    Cambios en el HTML
+
+commit 1854f0ce66ebdd6d79e4e8ee661e8211c6e504c7
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Wed Dec 14 19:49:39 2022 -0400
+
+    Agregando cositas al readme
+
+commit 236ff799cc736988a1817a952c35a0241de9f195
+Author: Kevin Molina <kevinmolina.dev@gmail.com>
+Date:   Wed Dec 14 19:40:26 2022 -0400
+
+    Toma el trabajo :D
